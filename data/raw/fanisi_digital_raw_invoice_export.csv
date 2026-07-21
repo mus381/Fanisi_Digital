@@ -1,0 +1,290 @@
+invoice_id	client_name	engagement_type	description	invoice_date	currency	amount	payment_status	payment_date	notes
+FD-1180	Sokoni Wholesale  	Retainer	Monthly maintenance retainer	4/15/2025	KES	125353	PAID	4/24/2025	
+FD-1004	Pesa Chap Chap Fintech	Retainer	Monthly feature development	1/21/2025	KES	122357	pending		
+FD-1216	Uzima Wellness Center	Retainer	Monthly maintenance retainer	6/27/2025	KES	80972	PAID	8/5/2025	
+FD-1007	Nyota Events Co	Fixed-Price Project	Mobile app - Android build	5/17/2025	KES	693405	PAID	7/27/2025	
+FD-1160	  Barabara Logistics	Retainer	Ongoing support retainer	1/29/2025	KES	87762	Paid	2/28/2025	
+FD-1036	Duka Moja Retail Group	Retainer	Ongoing support retainer	1/11/2025	KES	96898	paid	1/24/2025	
+FD-1124	  Uzima Wellness Center	Fixed-Price Project	Customer portal MVP	21/04/2025	KES	1126979	PAID	6/11/2025	
+FD-1171	Tumaini Schools Group	Retainer	Monthly feature development	6/7/2025	KES	107008	Paid	6/16/2025	
+FD-1032	Kaziwatch HR Solutions	Fixed-Price Project	Mobile app - Android build	1/28/2025	KES	1340194	paid	2/23/2025	
+FD-1242		Retainer	Monthly QA and bug-fix retainer	3/4/2025	KES	414708	Paid		
+FD-1234	Internal Test	Fixed-Price Project	Test invoice - staging	5/24/2025	KES	0	Paid	4/17/2025	test
+FD-1132	nuru health clinics	Fixed-Price Project	Internal HR tool development	6/22/2025	KES	351088	PAID	8/23/2025	
+FD-1049	TANDAA MEDIA HOUSE	Fixed-Price Project	Data migration project	6/28/2025	KES	985261	Paid	6/28/2025	
+FD-1020	Fasta Deliveries	Retainer	Infrastructure management retainer	3/4/2025	KES	111993	Paid	4/28/2025	
+FD-1213	  Mazao Agritech	Fixed-Price Project	Internal HR tool development	1/4/2025	KES	886975	Paid	1/26/2025	
+FD-1105	Bora Bites Catering  	Fixed-Price Project	Internal HR tool development	6/5/2025	KES	1221712	Paid	7/20/2025	
+FD-1069	Jenga Construction Ltd	Fixed-Price Project	API integration - payments	4/15/2025	KES	1204622	paid	6/14/2025	
+FD-1030	  Amka Fitness Studios	Retainer	Monthly maintenance retainer	2/3/2025	KES	95745	pending		
+FD-1048	  Pamoja Cooperative Bank	Retainer	Ongoing support retainer	2/27/2025	KES	76100	Paid	4/28/2025	
+FD-1188	  Highrise Property Managers	Retainer	Monthly feature development	4/13/2025	KES	67139	Paid	5/23/2025	
+FD-1195	Chapa Sasa Payments  	Retainer	Monthly QA and bug-fix retainer	2/6/2025	KES	76090	paid	11/2/2025	
+FD-1224	TANDAA MEDIA HOUSE	Retainer	Infrastructure management retainer	4/8/2025	KES	108790	paid	16/06/2025	
+FD-1241		Fixed-Price Project	Monthly QA and bug-fix retainer	2/18/2025	KES	438746	Paid		
+FD-1031	wema sacco	Retainer	Monthly QA and bug-fix retainer	6/6/2025	KES	135717	paid	7/14/2025	
+FD-1225	  Nuru Health Clinics	Retainer	Ongoing support retainer	5/16/2025	KES	66691	Pending		
+FD-1165	WEMA SACCO	Fixed-Price Project	Data migration project	6/25/2025	KES	1154384	Paid	7/3/2025	
+FD-1177	rafiki insurance brokers	Fixed-Price Project	E-commerce storefront launch	6/24/2025	KES	850224	paid	9/1/2025	
+FD-1087	Jenga Construction Ltd	Retainer	Monthly maintenance retainer	3/6/2025	KES	92372	Unpaid		
+FD-1266	Sokoni Wholesale	Retainer	International client - remote engagement	5/25/2025	USD	1581	Pending		
+FD-1230	zzz test client	Retainer	Test invoice - staging	1/13/2025	KES	0	Paid	6/14/2025	test
+FD-1179	Barabara Logistics	Retainer	Ongoing support retainer	4/30/2025	KES	122305	Paid	5/8/2025	
+FD-1148	Green Acre Farms Co-op	Retainer	Monthly QA and bug-fix retainer	6/3/2025	KES	144861	pending		
+FD-1136	Elimu Bora Tutors	Fixed-Price Project	Booking system integration	4/12/2025	KES	268714	Paid	5/22/2025	
+FD-1128	Mkulima Fresh Produce	Fixed-Price Project	E-commerce storefront launch	3/31/2025	KES	1346573	PAID	6/12/2025	
+FD-1000	UZIMA WELLNESS CENTER	Fixed-Price Project	Customer portal MVP	1/7/2025	KES	756778	paid	1/20/2025	
+FD-1024	green acre farms co-op	Fixed-Price Project	Data migration project	4/10/2025	KES	736171	paid	6/20/2025	
+FD-1041	Green Acre Farms Co-op	Retainer	Monthly feature development	1/8/2025	KES	65118	PAID	12/1/2025	
+FD-1115	MKULIMA FRESH PRODUCE	Retainer	Monthly feature development	1/26/2025	KES	139873	paid	12/3/2025	
+FD-1135	Zawadi Retailers	Retainer	Ongoing support retainer	4/21/2025	KES	73028	paid	5/20/2025	
+FD-1150	chapa sasa payments	Fixed-Price Project	Inventory management system	6/21/2025	KES	1283926	PAID	8/25/2025	
+FD-1079	  Kaziwatch HR Solutions	Fixed-Price Project	Mobile app - Android build	2/10/2025	KES	683033	Paid	2/10/2025	
+FD-1015	Tumaini Schools Group	Fixed-Price Project	Data migration project	6/3/2025	KES	859804	PAID	7/12/2025	
+FD-1267	KESHO RENEWABLE ENERGY	Fixed-Price Project	International client - remote engagement	2/24/2025	USD	5443	Paid	5/2/2025	
+FD-1155	Rafiki Insurance Brokers  	Retainer	Monthly QA and bug-fix retainer	4/8/2025	KES	115916	Paid	5/3/2025	
+FD-1173	Elimu Bora Tutors	Retainer	Monthly maintenance retainer	4/9/2025	KES	124349	paid	6/5/2025	
+FD-1256	Wema Sacco	Fixed-Price Project	Inventory management system	2/8/2025	KES	109585	VOID		project cancelled before delivery
+FD-1210	  Jenga Construction Ltd	Fixed-Price Project	Mobile app - Android build	5/17/2025	KES	258220	Paid	5/21/2025	
+FD-1025	Duka Moja Retail Group	Fixed-Price Project	API integration - payments	1/15/2025	KES	1394629	PAID	22/01/2025	
+FD-1159	tumaini schools group	Retainer	Infrastructure management retainer	6/28/2025	KES	68191	Paid	8/7/2025	
+FD-1206	Bidii Logistics	Retainer	Monthly maintenance retainer	1/11/2025	KES	87700	PAID	2/12/2025	
+FD-1134	MKULIMA FRESH PRODUCE	Retainer	Monthly maintenance retainer	6/3/2025	KES	57180	Paid	6/20/2025	
+FD-1249	Zawadi Retailers  	Retainer	Internal HR tool development	2/9/2025	KES		Pending		amount TBC - awaiting scope sign-off
+FD-1269	Kesho Renewable Energy	Fixed-Price Project	Credit note - scope reduction	2/15/2025	KES	-141735	Paid	3/22/2025	credit note against original invoice
+FD-1272	Pamoja Cooperative Bank	Retainer	Credit note - scope reduction	4/9/2025	KES	-119039	Paid	2/5/2025	credit note against original invoice
+FD-1145	Rafiki Insurance Brokers  	Fixed-Price Project	Data migration project	3/24/2025	KES	1448789	Paid	20/05/2025	
+FD-1011	  Highrise Property Managers	Fixed-Price Project	Mobile app - Android build	2/9/2025	KES	1495849	PAID	2/17/2025	
+FD-1183	Kesho Renewable Energy	Retainer	Ongoing support retainer	1/21/2025	KES	82847	paid	25/02/2025	
+FD-1271	duka moja retail group	Fixed-Price Project	Credit note - scope reduction	5/26/2025	KES	-129399	Paid	4/10/2025	credit note against original invoice
+FD-1056	DUKA MOJA RETAIL GROUP	Retainer	Monthly QA and bug-fix retainer	4/18/2025	KES	120545	Paid	6/19/2025	
+FD-1187	Nuru Health Clinics	Retainer	Infrastructure management retainer	4/17/2025	KES	113471	paid	5/5/2025	
+FD-1201	Mazao Agritech	Fixed-Price Project	Data migration project	2/18/2025	KES	219714	Paid	4/11/2025	
+FD-1181	Bidii Logistics	Fixed-Price Project	API integration - payments	2/3/2025	KES	1087266	Pending		
+FD-1161	  Jenga Construction Ltd	Fixed-Price Project	API integration - payments	5/8/2025	KES	1431452	paid	7/20/2025	
+FD-1094	Highrise Property Managers	Fixed-Price Project	Custom CRM build	6/28/2025	KES	680811	PAID	7/3/2025	
+FD-1274	HIGHLAND COFFEE ROASTERS	Retainer	Credit note - scope reduction	3/1/2025	KES	-129926	Paid	1/20/2025	credit note against original invoice
+FD-1247	tumaini schools group	Retainer	E-commerce storefront launch	4/16/2025	KES		Pending		amount TBC - awaiting scope sign-off
+FD-1186	KESHO RENEWABLE ENERGY	Retainer	Infrastructure management retainer	14/06/2025	KES	89596	paid	8/4/2025	
+FD-1207	Barabara Logistics	Retainer	Monthly feature development	24/05/2025	KES	141248	paid	8/7/2025	
+FD-1038	  Legit Auto Parts	Retainer	Ongoing support retainer	21/06/2025	KES	146345	paid	7/4/2025	
+FD-1008	Bora Bites Catering	Fixed-Price Project	E-commerce storefront launch	2/28/2025	KES	247319	Paid	3/27/2025	
+FD-1040	Safari Trails Tours	Retainer	Monthly maintenance retainer	3/26/2025	KES	86517	pending		
+FD-1169	TUMAINI SCHOOLS GROUP	Retainer	Infrastructure management retainer	1/22/2025	KES	145300	paid	2/14/2025	
+FD-1056	DUKA MOJA RETAIL GROUP	Retainer	Monthly QA and bug-fix retainer	4/18/2025	KES	120545	Paid	6/19/2025	
+FD-1211	Nuru Health Clinics	Retainer	Monthly feature development	1/10/2025	KES	51214	Paid	2/21/2025	
+FD-1060	Wema Sacco	Fixed-Price Project	API integration - payments	5/1/2025	KES	220649	PAID	5/29/2025	
+FD-1119	Elimu Bora Tutors	Fixed-Price Project	Corporate website rebuild	5/31/2025	KES	858997	Paid	6/16/2025	
+FD-1089	KAZIWATCH HR SOLUTIONS	Fixed-Price Project	Data migration project	3/15/2025	KES	1098796	paid	4/14/2025	
+FD-1106	PAMOJA COOPERATIVE BANK	Fixed-Price Project	Corporate website rebuild	6/10/2025	KES	383767	PAID	6/14/2025	
+FD-1232	TEST - DO NOT USE	Retainer	Test invoice - staging	4/7/2025	KES	1	Paid	5/18/2025	test
+FD-1058	  Faida Microfinance	Fixed-Price Project	Mobile app - Android build	22/01/2025	KES	1078866	PENDING		
+FD-1220	Safari Trails Tours	Fixed-Price Project	API integration - payments	2/12/2025	KES	868112	paid	3/10/2025	
+FD-1173	Elimu Bora Tutors	Retainer	Monthly maintenance retainer	4/9/2025	KES	124349	paid	6/5/2025	
+FD-1091	Mazao Agritech	Retainer	Infrastructure management retainer	4/17/2025	KES	113242	paid	5/5/2025	
+FD-1243		Retainer	Monthly QA and bug-fix retainer	3/3/2025	KES	339448	Pending		
+FD-1014	Highrise Property Managers	Retainer	Monthly QA and bug-fix retainer	6/13/2025	KES	116540	PAID	7/3/2025	
+FD-1010	MKULIMA FRESH PRODUCE	Retainer	Monthly QA and bug-fix retainer	30/05/2025	KES	106155	Paid	6/16/2025	
+FD-1197	Green Acre Farms Co-op  	Retainer	Monthly QA and bug-fix retainer	6/1/2025	KES	94089	Unpaid		
+FD-1214	wema sacco	Retainer	Monthly maintenance retainer	5/12/2025	KES	92982	Paid	6/4/2025	
+FD-1113	pesa chap chap fintech	Fixed-Price Project	Mobile app - Android build	3/2/2025	KES	1307316	PAID	5/10/2025	
+FD-1245		Retainer	Internal HR tool development	4/3/2025	KES	318863	Pending		
+FD-1070	Zawadi Retailers  	Fixed-Price Project	Booking system integration	3/17/2025	KES	644721	PAID	5/30/2025	
+FD-1044	highrise property managers	Fixed-Price Project	Internal HR tool development	3/18/2025	KES	1243512	PAID	5/8/2025	
+FD-1205	Fasta Deliveries	Retainer	Monthly QA and bug-fix retainer	3/15/2025	KES	65974	PAID	5/4/2025	
+FD-1235	zzz test client	Fixed-Price Project	Test invoice - staging	4/10/2025	KES	1	Paid	3/7/2025	test
+FD-1103	  Mazao Agritech	Retainer	Ongoing support retainer	27/04/2025	KES	89599	Unpaid		
+FD-1075	Nuru Health Clinics	Fixed-Price Project	Inventory management system	3/6/2025	KES	1181870	Unpaid		
+FD-1120	Jenga Construction Ltd	Retainer	Monthly QA and bug-fix retainer	4/25/2025	KES	97453	PAID	6/28/2025	
+FD-1059	Chapa Sasa Payments  	Fixed-Price Project	E-commerce storefront launch	4/27/2025	KES	865445	PAID	6/1/2025	
+FD-1196	legit auto parts	Retainer	Ongoing support retainer	5/13/2025	KES	109898	paid	5/30/2025	
+FD-1239		Fixed-Price Project	Infrastructure management retainer	1/19/2025	KES	148651	Paid		
+FD-1057	  Green Acre Farms Co-op	Retainer	Infrastructure management retainer	6/21/2025	KES	139016	PAID	7/7/2025	
+FD-1109	Legit Auto Parts  	Fixed-Price Project	Mobile app - Android build	4/30/2025	KES	337914	Paid	6/19/2025	
+FD-1073	SAFARI TRAILS TOURS	Retainer	Ongoing support retainer	28/02/2025	KES	97301	paid	7/5/2025	
+FD-1088	zawadi retailers	Retainer	Ongoing support retainer	4/16/2025	KES	57104	paid	6/18/2025	
+FD-1149	Bidii Logistics	Retainer	Infrastructure management retainer	3/21/2025	KES	135990	paid	3/31/2025	
+FD-1163	BARABARA LOGISTICS	Fixed-Price Project	Corporate website rebuild	4/10/2025	KES	1165944	PAID	5/12/2025	
+FD-1066	Amka Fitness Studios	Retainer	Infrastructure management retainer	6/7/2025	KES	120539	paid	8/21/2025	
+FD-1263	green acre farms co-op	Fixed-Price Project	International client - remote engagement	3/18/2025	USD	1460	Paid	6/17/2025	
+FD-1065	Jenga Construction Ltd	Retainer	Infrastructure management retainer	1/4/2025	KES	105057	PAID	3/3/2025	
+FD-1028	Faida Microfinance  	Retainer	Monthly feature development	3/8/2025	KES	76772	PAID	3/24/2025	
+FD-1033	  Highrise Property Managers	Retainer	Monthly feature development	10/5/2025	KES	114032	Pending		
+FD-1012	Amka Fitness Studios  	Retainer	Monthly maintenance retainer	5/22/2025	KES	51504	paid	6/25/2025	
+FD-1191	Sokoni Wholesale  	Fixed-Price Project	API integration - payments	24/01/2025	KES	1004688	Paid	2/20/2025	
+FD-1013	TANDAA MEDIA HOUSE	Fixed-Price Project	Internal HR tool development	4/27/2025	KES	186805	PENDING		
+FD-1055	Wema Sacco  	Retainer	Monthly maintenance retainer	4/10/2025	KES	126556	Unpaid		
+FD-1172	Legit Auto Parts	Fixed-Price Project	Custom CRM build	1/8/2025	KES	479430	PAID	12/1/2025	
+FD-1212	Amka Fitness Studios  	Retainer	Infrastructure management retainer	2/4/2025	KES	116088	Paid	3/18/2025	
+FD-1156	Highland Coffee Roasters  	Retainer	Monthly maintenance retainer	4/6/2025	KES	122684	paid	4/21/2025	
+FD-1188	  Highrise Property Managers	Retainer	Monthly feature development	4/13/2025	KES	67139	Paid	5/23/2025	
+FD-1121	Legit Auto Parts	Retainer	Monthly maintenance retainer	28/04/2025	KES	134323	PAID	6/18/2025	
+FD-1086	  Pamoja Cooperative Bank	Fixed-Price Project	Booking system integration	2/11/2025	KES	871648	PAID	4/3/2025	
+FD-1168	Kesho Renewable Energy  	Retainer	Monthly feature development	4/23/2025	KES	100678	Unpaid		
+FD-1072	Fasta Deliveries	Fixed-Price Project	Data migration project	2/19/2025	KES	633791	paid	4/27/2025	
+FD-1005	  Jenga Construction Ltd	Fixed-Price Project	Internal HR tool development	6/19/2025	KES	657937	PENDING		
+FD-1253	Fasta Deliveries	Retainer	Data migration project	2/13/2025	KES	469283	VOID		project cancelled before delivery
+FD-1178	Mazao Agritech  	Fixed-Price Project	Customer portal MVP	4/3/2025	KES	1246938	Paid	4/20/2025	
+FD-1130	  Highrise Property Managers	Fixed-Price Project	Inventory management system	5/25/2025	KES	1020505	paid	28/05/2025	
+FD-1109	Legit Auto Parts  	Fixed-Price Project	Mobile app - Android build	4/30/2025	KES	337914	Paid	6/19/2025	
+FD-1202	  Nyota Events Co	Retainer	Ongoing support retainer	1/16/2025	KES	142507	paid	2/26/2025	
+FD-1254	Bidii Logistics	Retainer	Mobile app - Android build	5/19/2025	KES	772985	VOID		project cancelled before delivery
+FD-1229	Amka Fitness Studios	Retainer	Monthly QA and bug-fix retainer	3/1/2025	KES	145881	paid	4/11/2025	
+FD-1204	Kaziwatch HR Solutions	Retainer	Monthly feature development	2/27/2025	KES	89008	paid	4/30/2025	
+FD-1009	chapa sasa payments	Fixed-Price Project	Booking system integration	6/17/2025	KES	1226963	Unpaid		
+FD-1209	Tumaini Schools Group	Fixed-Price Project	Data migration project	15/04/2025	KES	1177614	PAID	5/26/2025	
+FD-1129	bora bites catering	Fixed-Price Project	Corporate website rebuild	6/5/2025	KES	740878	paid	7/14/2025	
+FD-1102	  Kaziwatch HR Solutions	Fixed-Price Project	API integration - payments	4/30/2025	KES	783207	PAID	6/13/2025	
+FD-1222	FASTA DELIVERIES	Fixed-Price Project	Corporate website rebuild	4/12/2025	KES	713635	paid	21/04/2025	
+FD-1268	KAZIWATCH HR SOLUTIONS	Fixed-Price Project	Credit note - scope reduction	6/25/2025	KES	-141318	Paid	3/13/2025	credit note against original invoice
+FD-1018	Mkulima Fresh Produce	Fixed-Price Project	Corporate website rebuild	17/01/2025	KES	889016	Paid	4/2/2025	
+FD-1164	Elimu Bora Tutors  	Fixed-Price Project	Inventory management system	6/18/2025	KES	1497550	paid	30/07/2025	
+FD-1108	Tumaini Schools Group  	Retainer	Infrastructure management retainer	2/12/2025	KES	83681	pending		
+FD-1039	Mkulima Fresh Produce	Fixed-Price Project	Internal HR tool development	4/28/2025	KES	913286	PENDING		
+FD-1273	Legit Auto Parts	Fixed-Price Project	Credit note - scope reduction	5/9/2025	KES	-117708	Paid	3/30/2025	credit note against original invoice
+FD-1061	highland coffee roasters	Fixed-Price Project	Corporate website rebuild	5/3/2025	KES	598089	Paid	3/21/2025	
+FD-1265	Barabara Logistics	Fixed-Price Project	International client - remote engagement	6/29/2025	USD	2203	Paid	1/22/2025	
+FD-1219	Bora Bites Catering	Fixed-Price Project	API integration - payments	5/15/2025	KES	1116898	Paid	26/07/2025	
+FD-1127	  Elimu Bora Tutors	Retainer	Monthly QA and bug-fix retainer	1/14/2025	KES	87700	Paid	3/28/2025	
+FD-1233	Internal Test	Fixed-Price Project	Test invoice - staging	2/27/2025	KES	0	Paid	2/6/2025	test
+FD-1017	HIGHRISE PROPERTY MANAGERS	Retainer	Ongoing support retainer	2/24/2025	KES	120686	PAID	4/12/2025	
+FD-1170	Chapa Sasa Payments	Retainer	Monthly QA and bug-fix retainer	20/03/2025	KES	108447	Paid	5/15/2025	
+FD-1228	rafiki insurance brokers	Fixed-Price Project	Booking system integration	3/4/2025	KES	272771	paid	3/31/2025	
+FD-1053	mkulima fresh produce	Retainer	Monthly feature development	23/04/2025	KES	60155	PAID	6/2/2025	
+FD-1118	ZAWADI RETAILERS	Retainer	Monthly QA and bug-fix retainer	7/2/2025	KES	67038	Paid	2/21/2025	
+FD-1231	Internal Test	Retainer	Test invoice - staging	6/28/2025	KES	0	Paid	4/15/2025	test
+FD-1140	Elimu Bora Tutors	Retainer	Ongoing support retainer	6/15/2025	KES	69358	PAID	7/10/2025	
+FD-1248	Highland Coffee Roasters	Fixed-Price Project	Ongoing support retainer	2/7/2025	KES		Pending		amount TBC - awaiting scope sign-off
+FD-1270	zawadi retailers	Fixed-Price Project	Credit note - scope reduction	4/12/2025	KES	-141749	Paid	1/20/2025	credit note against original invoice
+FD-1260	Amka Fitness Studios	Retainer	International client - remote engagement	2/15/2025	USD	1676	Pending		
+FD-1176	Tumaini Schools Group	Retainer	Ongoing support retainer	2/21/2025	KES	66074	Unpaid		
+FD-1144	HIGHRISE PROPERTY MANAGERS	Fixed-Price Project	API integration - payments	6/7/2025	KES	1425875	paid	8/16/2025	
+FD-1029	tumaini schools group	Fixed-Price Project	Custom CRM build	3/1/2025	KES	1141094	Pending		
+FD-1093	Wema Sacco  	Retainer	Monthly QA and bug-fix retainer	2/8/2025	KES	108529	PAID	4/19/2025	
+FD-1100	duka moja retail group	Retainer	Ongoing support retainer	4/6/2025	KES	106450	PAID	6/17/2025	
+FD-1071	TANDAA MEDIA HOUSE	Retainer	Infrastructure management retainer	4/1/2025	KES	142124	PAID	30/04/2025	
+FD-1096	PESA CHAP CHAP FINTECH	Retainer	Infrastructure management retainer	1/26/2025	KES	118937	Paid	3/19/2025	
+FD-1151	Safari Trails Tours	Retainer	Ongoing support retainer	5/5/2025	KES	75166	PENDING		
+FD-1226	Pamoja Cooperative Bank	Retainer	Ongoing support retainer	5/17/2025	KES	99712	PAID	6/5/2025	
+FD-1147	Elimu Bora Tutors	Retainer	Monthly feature development	10/4/2025	KES	103578	Paid	22/05/2025	
+FD-1125	Chapa Sasa Payments  	Retainer	Infrastructure management retainer	4/6/2025	KES	70006	Paid	4/17/2025	
+FD-1251	wema sacco	Retainer	API integration - payments	6/17/2025	KES		Pending		amount TBC - awaiting scope sign-off
+FD-1076	UZIMA WELLNESS CENTER	Fixed-Price Project	Custom CRM build	2/8/2025	KES	492890	Pending		
+FD-1081	legit auto parts	Fixed-Price Project	API integration - payments	19/04/2025	KES	420703	Paid	5/23/2025	
+FD-1190	Kesho Renewable Energy  	Fixed-Price Project	E-commerce storefront launch	3/25/2025	KES	1391497	Paid	5/27/2025	
+FD-1045	Tandaa Media House  	Retainer	Ongoing support retainer	23/06/2025	KES	148059	PAID	8/13/2025	
+FD-1080	Duka Moja Retail Group	Fixed-Price Project	Internal HR tool development	3/1/2025	KES	784199	PAID	3/10/2025	
+FD-1122	Tumaini Schools Group	Retainer	Monthly feature development	1/19/2025	KES	60589	Paid	2/4/2025	
+FD-1051	  Legit Auto Parts	Retainer	Monthly QA and bug-fix retainer	6/20/2025	KES	119616	PAID	8/23/2025	
+FD-1154	  Fasta Deliveries	Retainer	Ongoing support retainer	3/1/2025	KES	119993	PAID	3/25/2025	
+FD-1082	Legit Auto Parts	Retainer	Monthly QA and bug-fix retainer	6/2/2025	KES	148167	Unpaid		
+FD-1208	Mkulima Fresh Produce	Fixed-Price Project	Booking system integration	1/14/2025	KES	390130	PAID	1/26/2025	
+FD-1193	FASTA DELIVERIES	Retainer	Monthly maintenance retainer	4/14/2025	KES	97964	paid	6/24/2025	
+FD-1198	Sokoni Wholesale	Fixed-Price Project	Inventory management system	4/5/2025	KES	874659	pending		
+FD-1166	  Duka Moja Retail Group	Fixed-Price Project	Corporate website rebuild	1/12/2025	KES	598318	PAID	3/18/2025	
+FD-1238	Test Client	Retainer	Test invoice - staging	4/7/2025	KES	100	Paid	6/4/2025	test
+FD-1189	Mkulima Fresh Produce	Fixed-Price Project	Internal HR tool development	1/25/2025	KES	286126	Unpaid		
+FD-1112	  Uzima Wellness Center	Fixed-Price Project	Internal HR tool development	12/6/2025	KES	1153639	Paid	29/06/2025	
+FD-1084	kaziwatch hr solutions	Fixed-Price Project	Custom CRM build	1/24/2025	KES	660089	Paid	2/27/2025	
+FD-1142	Uzima Wellness Center	Retainer	Ongoing support retainer	6/10/2025	KES	91436	PAID	8/5/2025	
+FD-1158	Mkulima Fresh Produce  	Retainer	Ongoing support retainer	1/21/2025	KES	99140	Paid	3/4/2025	
+FD-1085	Sokoni Wholesale  	Retainer	Monthly QA and bug-fix retainer	3/13/2025	KES	73788	PAID	3/24/2025	
+FD-1101	  Jenga Construction Ltd	Retainer	Ongoing support retainer	6/8/2025	KES	139539	paid	6/26/2025	
+FD-1001	Faida Microfinance	Retainer	Monthly maintenance retainer	1/9/2025	KES	53905	paid	1/12/2025	
+FD-1217	  Bora Bites Catering	Retainer	Monthly feature development	6/26/2025	KES	65389	Paid	7/24/2025	
+FD-1034	Wema Sacco	Retainer	Monthly feature development	1/12/2025	KES	50464	paid	2/14/2025	
+FD-1027	Highrise Property Managers	Fixed-Price Project	Custom CRM build	4/14/2025	KES	431420	paid	4/19/2025	
+FD-1117	Legit Auto Parts	Fixed-Price Project	Customer portal MVP	1/18/2025	KES	1342257	Paid	3/1/2025	
+FD-1050	bora bites catering	Retainer	Monthly QA and bug-fix retainer	2/26/2025	KES	73053	paid	3/29/2025	
+FD-1246		Retainer	Inventory management system	5/1/2025	KES	449312	Pending		
+FD-1044	highrise property managers	Fixed-Price Project	Internal HR tool development	3/18/2025	KES	1243512	PAID	5/8/2025	
+FD-1215	Zawadi Retailers  	Retainer	Infrastructure management retainer	4/9/2025	KES	80870	PAID	5/17/2025	
+FD-1160	  Barabara Logistics	Retainer	Ongoing support retainer	1/29/2025	KES	87762	Paid	2/28/2025	
+FD-1244		Retainer	Booking system integration	4/30/2025	KES	329786	Pending		
+FD-1063	Pesa Chap Chap Fintech	Fixed-Price Project	Booking system integration	3/21/2025	KES	1387533	paid	15/04/2025	
+FD-1064	Mkulima Fresh Produce  	Fixed-Price Project	Custom CRM build	6/28/2025	KES	812464	paid	7/3/2025	
+FD-1092	Fasta Deliveries  	Fixed-Price Project	Booking system integration	1/18/2025	KES	759332	paid	2/21/2025	
+FD-1019	highland coffee roasters	Fixed-Price Project	E-commerce storefront launch	1/18/2025	KES	245877	Paid	2/22/2025	
+FD-1225	  Nuru Health Clinics	Retainer	Ongoing support retainer	5/16/2025	KES	66691	Pending		
+FD-1123	Mazao Agritech	Retainer	Monthly QA and bug-fix retainer	4/8/2025	KES	128301	paid	2/6/2025	
+FD-1076	UZIMA WELLNESS CENTER	Fixed-Price Project	Custom CRM build	2/8/2025	KES	492890	Pending		
+FD-1107	Tumaini Schools Group	Retainer	Infrastructure management retainer	3/25/2025	KES	147973	Paid	6/2/2025	
+FD-1070	Zawadi Retailers  	Fixed-Price Project	Booking system integration	3/17/2025	KES	644721	PAID	5/30/2025	
+FD-1111	pesa chap chap fintech	Fixed-Price Project	Custom CRM build	5/1/2025	KES	232480	pending		
+FD-1257	  Amka Fitness Studios	Retainer	Corporate website rebuild	6/8/2025	KES	768706	Void		project cancelled before delivery
+FD-1016	Jenga Construction Ltd	Fixed-Price Project	API integration - payments	5/5/2025	KES	325149	Paid	7/4/2025	
+FD-1258	Tumaini Schools Group	Retainer	Data migration project	1/5/2025	KES	106933	Void		project cancelled before delivery
+FD-1259	BARABARA LOGISTICS	Retainer	International client - remote engagement	5/18/2025	USD	3148	Paid	1/5/2025	
+FD-1218	Fasta Deliveries	Retainer	Monthly QA and bug-fix retainer	4/17/2025	KES	142004	PENDING		
+FD-1077	Barabara Logistics	Retainer	Monthly QA and bug-fix retainer	6/5/2025	KES	128135	paid	7/23/2025	
+FD-1068	nuru health clinics	Retainer	Monthly feature development	2/24/2025	KES	96507	paid	3/31/2025	
+FD-1035	TANDAA MEDIA HOUSE	Fixed-Price Project	Mobile app - Android build	1/29/2025	KES	337797	PAID	4/13/2025	
+FD-1223	Barabara Logistics	Fixed-Price Project	Corporate website rebuild	1/18/2025	KES	1170005	Paid	2/4/2025	
+FD-1097	Sokoni Wholesale	Retainer	Infrastructure management retainer	3/28/2025	KES	131691	PAID	6/4/2025	
+FD-1175	Sokoni Wholesale	Retainer	Monthly feature development	5/24/2025	KES	65435	paid	7/20/2025	
+FD-1261	tumaini schools group	Fixed-Price Project	International client - remote engagement	2/19/2025	USD	5877	Paid	5/15/2025	
+FD-1133	BORA BITES CATERING	Fixed-Price Project	Inventory management system	3/30/2025	KES	1081594	paid	6/13/2025	
+FD-1146	Mazao Agritech  	Fixed-Price Project	Corporate website rebuild	5/10/2025	KES	541882	PAID	7/5/2025	
+FD-1062	Rafiki Insurance Brokers  	Retainer	Monthly QA and bug-fix retainer	4/5/2025	KES	71992	paid	4/19/2025	
+FD-1143	Highland Coffee Roasters	Retainer	Monthly feature development	5/10/2025	KES	59724	Paid	5/17/2025	
+FD-1185	  Highrise Property Managers	Fixed-Price Project	Custom CRM build	1/21/2025	KES	275340	Paid	4/4/2025	
+FD-1021	  Fasta Deliveries	Fixed-Price Project	Corporate website rebuild	6/22/2025	KES	386397	PAID	7/5/2025	
+FD-1252	Pamoja Cooperative Bank  	Retainer	Monthly feature development	5/6/2025	KES		Pending		amount TBC - awaiting scope sign-off
+FD-1099	PESA CHAP CHAP FINTECH	Fixed-Price Project	Internal HR tool development	4/24/2025	KES	528892	Pending		
+FD-1105	Bora Bites Catering  	Fixed-Price Project	Internal HR tool development	6/5/2025	KES	1221712	Paid	7/20/2025	
+FD-1074	Barabara Logistics  	Retainer	Infrastructure management retainer	6/28/2025	KES	66551	Paid	9/9/2025	
+FD-1003	Safari Trails Tours	Retainer	Infrastructure management retainer	1/27/2025	KES	62156	PAID	3/1/2025	
+FD-1098	  Kesho Renewable Energy	Retainer	Monthly QA and bug-fix retainer	5/19/2025	KES	54705	paid	6/24/2025	
+FD-1264	HIGHRISE PROPERTY MANAGERS	Fixed-Price Project	International client - remote engagement	4/14/2025	USD	3906	Paid	4/7/2025	
+FD-1083	Duka Moja Retail Group	Retainer	Monthly QA and bug-fix retainer	3/11/2025	KES	115597	Paid	3/16/2025	
+FD-1200	Sokoni Wholesale	Fixed-Price Project	Custom CRM build	5/15/2025	KES	1499161	PAID	6/2/2025	
+FD-1153	Wema Sacco	Fixed-Price Project	Booking system integration	4/23/2025	KES	271629	paid	5/23/2025	
+FD-1152	legit auto parts	Fixed-Price Project	API integration - payments	5/10/2025	KES	1311981	PAID	5/26/2025	
+FD-1023	highland coffee roasters	Fixed-Price Project	Mobile app - Android build	1/24/2025	KES	675723	PAID	2/20/2025	
+FD-1141	Uzima Wellness Center	Fixed-Price Project	Data migration project	2/15/2025	KES	1496904	paid	4/30/2025	
+FD-1090	Barabara Logistics	Retainer	Monthly maintenance retainer	1/24/2025	KES	79451	Paid	2/12/2025	
+FD-1240		Retainer	Customer portal MVP	3/27/2025	KES	208957	Paid		
+FD-1006	KAZIWATCH HR SOLUTIONS	Retainer	Ongoing support retainer	6/12/2025	KES	97819	Paid	7/16/2025	
+FD-1026	Amka Fitness Studios	Fixed-Price Project	Inventory management system	1/15/2025	KES	1244993	Pending		
+FD-1104	Faida Microfinance	Retainer	Monthly feature development	5/28/2025	KES	88780	paid	7/17/2025	
+FD-1131	tandaa media house	Retainer	Monthly feature development	3/29/2025	KES	70631	PAID	6/9/2025	
+FD-1236	TEST - DO NOT USE	Retainer	Test invoice - staging	6/15/2025	KES	1	Paid	4/26/2025	test
+FD-1142	Uzima Wellness Center	Retainer	Ongoing support retainer	6/10/2025	KES	91436	PAID	8/5/2025	
+FD-1114	  Kesho Renewable Energy	Retainer	Infrastructure management retainer	6/17/2025	KES	62978	PAID	6/21/2025	
+FD-1110	Jenga Construction Ltd  	Retainer	Monthly QA and bug-fix retainer	1/4/2025	KES	84663	PAID	2/6/2025	
+FD-1047	fasta deliveries	Fixed-Price Project	Internal HR tool development	6/18/2025	KES	357829	paid	30/07/2025	
+FD-1022	BIDII LOGISTICS	Retainer	Infrastructure management retainer	2/16/2025	KES	86509	Paid	4/13/2025	
+FD-1067	Tumaini Schools Group  	Fixed-Price Project	Customer portal MVP	3/13/2025	KES	1125400	paid	4/30/2025	
+FD-1052	Kesho Renewable Energy	Fixed-Price Project	Internal HR tool development	5/2/2025	KES	1123864	paid	6/6/2025	
+FD-1138	Mazao Agritech  	Retainer	Monthly maintenance retainer	1/23/2025	KES	107240	paid	3/15/2025	
+FD-1250	Safari Trails Tours  	Fixed-Price Project	Booking system integration	5/26/2025	KES		Pending		amount TBC - awaiting scope sign-off
+FD-1227	BORA BITES CATERING	Fixed-Price Project	Custom CRM build	9/1/2025	KES	1059211	Paid	2/8/2025	
+FD-1157	Rafiki Insurance Brokers  	Fixed-Price Project	Customer portal MVP	4/22/2025	KES	372337	PAID	4/25/2025	
+FD-1002	barabara logistics	Retainer	Monthly QA and bug-fix retainer	2/26/2025	KES	108878	Paid	3/18/2025	
+FD-1046	Safari Trails Tours	Retainer	Monthly feature development	5/29/2025	KES	129516	PAID	6/25/2025	
+FD-1054	mkulima fresh produce	Retainer	Ongoing support retainer	6/27/2025	KES	70028	PAID	8/8/2025	
+FD-1184	Jenga Construction Ltd	Fixed-Price Project	Mobile app - Android build	6/1/2025	KES	1397703	paid	7/14/2025	
+FD-1162	Zawadi Retailers	Retainer	Infrastructure management retainer	3/3/2025	KES	124798	paid	3/13/2025	
+FD-1199	Highrise Property Managers	Fixed-Price Project	Internal HR tool development	6/2/2025	KES	1175287	PENDING		
+FD-1255	AMKA FITNESS STUDIOS	Fixed-Price Project	Corporate website rebuild	1/2/2025	KES	532424	VOID		project cancelled before delivery
+FD-1262	Kaziwatch HR Solutions  	Retainer	International client - remote engagement	1/21/2025	USD	3856	Pending		
+FD-1078	faida microfinance	Retainer	Monthly QA and bug-fix retainer	3/20/2025	KES	124531	paid	4/1/2025	
+FD-1137	Uzima Wellness Center	Retainer	Infrastructure management retainer	3/16/2025	KES	65096	PAID	4/6/2025	
+FD-1042	LEGIT AUTO PARTS	Retainer	Monthly QA and bug-fix retainer	4/22/2025	KES	129457	paid	5/16/2025	
+FD-1037	Tandaa Media House  	Fixed-Price Project	Mobile app - Android build	3/2/2025	KES	520790	Pending		
+FD-1126	  Legit Auto Parts	Fixed-Price Project	Custom CRM build	5/23/2025	KES	305789	pending		
+FD-1151	Safari Trails Tours	Retainer	Ongoing support retainer	5/5/2025	KES	75166	PENDING		
+FD-1043	Amka Fitness Studios	Fixed-Price Project	Inventory management system	4/4/2025	KES	1084496	pending		
+FD-1194	Green Acre Farms Co-op	Retainer	Monthly QA and bug-fix retainer	5/21/2025	KES	86663	Paid	6/6/2025	
+FD-1095	Green Acre Farms Co-op	Retainer	Ongoing support retainer	6/19/2025	KES	135461	Paid	7/5/2025	
+FD-1221	Rafiki Insurance Brokers  	Fixed-Price Project	API integration - payments	4/27/2025	KES	456707	paid	5/4/2025	
+FD-1192	Sokoni Wholesale  	Retainer	Monthly maintenance retainer	3/15/2025	KES	120345	Unpaid		
+FD-1182	Bidii Logistics	Retainer	Monthly feature development	2/12/2025	KES	71229	PENDING		
+FD-1116	highrise property managers	Retainer	Ongoing support retainer	1/24/2025	KES	136870	paid	26/01/2025	
+FD-1237	asdf test	Fixed-Price Project	Test invoice - staging	5/18/2025	KES	100	Paid	2/18/2025	test
+FD-1133	BORA BITES CATERING	Fixed-Price Project	Inventory management system	3/30/2025	KES	1081594	paid	6/13/2025	
+FD-1139	Fasta Deliveries	Retainer	Ongoing support retainer	2/26/2025	KES	93655	paid	3/12/2025	
+FD-1015	Tumaini Schools Group	Fixed-Price Project	Data migration project	6/3/2025	KES	859804	PAID	7/12/2025	
+FD-1167	  Kaziwatch HR Solutions	Fixed-Price Project	Internal HR tool development	6/15/2025	KES	580772	Paid	7/27/2025	
+FD-1203	chapa sasa payments	Fixed-Price Project	E-commerce storefront launch	4/28/2025	KES	1298048	paid	5/31/2025	
+FD-1174	jenga construction ltd	Fixed-Price Project	Booking system integration	16/05/2025	KES	949549	PAID	6/16/2025	

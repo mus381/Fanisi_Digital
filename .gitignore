@@ -1,0 +1,15 @@
+# VS Code
+.vscode/
+
+# SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
