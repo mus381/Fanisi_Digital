@@ -30,3 +30,16 @@ Observed values:
 Observation:
 
 Payment status capitalization is inconsistent.
+
+
+## Investigation
+
+### Duplicate Invoice IDs
+
+- 14 invoice IDs occur twice.
+- Cause: Pending investigation.
+
+### Missing Amounts
+
+- 6 rows have NULL amounts.
+- Cause: Pending investigation.

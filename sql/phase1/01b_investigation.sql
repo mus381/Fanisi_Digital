@@ -10,6 +10,10 @@ ORDER BY invoice_id;
 
 
 
+-- ==================================================
+-- Missing Amount Investigation
+-- ==================================================
+
 SELECT *
 FROM raw_invoices
 WHERE amount IS NULL;
