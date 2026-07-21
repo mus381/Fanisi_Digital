@@ -1,0 +1,7 @@
+invoice_id,client_name,engagement_type,description,invoice_date,currency,amount,payment_status,payment_date,notes
+FD-1249,Zawadi Retailers  ,Retainer,Internal HR tool development,2/9/2025,KES,,Pending,,amount TBC - awaiting scope sign-off
+FD-1247,tumaini schools group,Retainer,E-commerce storefront launch,4/16/2025,KES,,Pending,,amount TBC - awaiting scope sign-off
+FD-1248,Highland Coffee Roasters,Fixed-Price Project,Ongoing support retainer,2/7/2025,KES,,Pending,,amount TBC - awaiting scope sign-off
+FD-1251,wema sacco,Retainer,API integration - payments,6/17/2025,KES,,Pending,,amount TBC - awaiting scope sign-off
+FD-1252,Pamoja Cooperative Bank  ,Retainer,Monthly feature development,5/6/2025,KES,,Pending,,amount TBC - awaiting scope sign-off
+FD-1250,Safari Trails Tours  ,Fixed-Price Project,Booking system integration,5/26/2025,KES,,Pending,,amount TBC - awaiting scope sign-off
