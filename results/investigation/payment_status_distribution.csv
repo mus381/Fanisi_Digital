@@ -1,0 +1,10 @@
+payment_status,invoice_count
+Paid,92
+paid,72
+PAID,67
+Pending,23
+Unpaid,11
+pending,9
+PENDING,9
+VOID,4
+Void,2
