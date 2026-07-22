@@ -41,3 +41,33 @@ Exit Criteria
 SELECT *
 FROM clean_invoice_ledger
 LIMIT 10;
+
+-- ============================================================================
+-- Candidate Entity Evidence
+-- ============================================================================
+
+SELECT
+    COUNT(*) AS total_rows,
+    COUNT(invoice_id) AS populated_invoice_ids,
+    COUNT(DISTINCT invoice_id) AS distinct_invoice_ids
+FROM clean_invoice_ledger;
+
+SELECT
+    client_name,
+    COUNT(*) AS invoice_count
+FROM clean_invoice_ledger
+GROUP BY client_name
+ORDER BY invoice_count DESC;
+
+SELECT
+    engagement_type,
+    COUNT(*) AS invoice_count
+FROM clean_invoice_ledger
+GROUP BY engagement_type
+ORDER BY invoice_count DESC;
+
+SELECT
+    payment_status,
+    COUNT(*) AS invoice_count
+FROM clean_invoice_ledger
+GROUP BY payment_status;
