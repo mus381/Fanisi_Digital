@@ -68,24 +68,22 @@ CREATE TABLE dim_project_type (
 
 CREATE TABLE fact_engagement_billing (
 
-    client_key INTEGER,
+    -- Foreign Keys
+    client_key INTEGER NOT NULL,
+    project_type_key INTEGER NOT NULL,
+    invoice_date_key INTEGER,
+    payment_date_key INTEGER,
 
-    project_type_key INTEGER,
+    -- Degenerate Dimension
+    invoice_id VARCHAR NOT NULL,
 
-    invoice_id VARCHAR,
+    -- Measure
+    amount DECIMAL(18,2) NOT NULL,
 
-    invoice_date VARCHAR,
-
-    payment_date VARCHAR,
-
-    amount DOUBLE,
-
+    -- Event Attributes
     currency VARCHAR,
-
     payment_status VARCHAR,
-
     description VARCHAR,
-
     notes VARCHAR
 
 );
