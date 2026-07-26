@@ -283,28 +283,243 @@ Attributes provide business context for measures but are not themselves aggregat
 ---
 
 # Dimension Blueprint
+# Dimension Blueprint
 
+The semantic layer exposes business dimensions as descriptive business objects that provide context for billing events.
+
+Dimensions describe business entities.
+
+They do not measure business activity.
+
+---
+
+## Business Dimension: Client
+
+### Analytical Owner
+
+dim_client
+
+### Business Purpose
+
+Represents the customer purchasing services from Fanisi Digital.
+
+This dimension provides the business context necessary to analyze billing events by customer.
+
+### Business Object
+
+Client
+
+### Primary Business Identifier
+
+client_name
+
+### Relationship
+
+One Client
+
+↓
+
+Many Billing Events
+
+### Business Questions Supported
+
+- Which clients generate the highest revenue?
+- Which clients receive the most invoices?
+- Which clients purchase multiple engagement types?
+
+---
+
+## Business Dimension: Engagement Type
+
+### Analytical Owner
+
+dim_project_type
+
+### Business Purpose
+
+Represents the category of commercial service delivered to a client.
+
+This dimension enables analysis of billing activity by service category.
+
+### Business Object
+
+Engagement Type
+
+### Primary Business Identifier
+
+engagement_type
+
+### Relationship
+
+One Engagement Type
+
+↓
+
+Many Billing Events
+
+### Business Questions Supported
+
+- Which engagement types generate the highest revenue?
+- Which engagement types are most frequently sold?
+- Which engagement types contribute the largest share of billing activity?
 ---
 
 # Grain Inheritance Validation
+# Grain Inheritance Validation
 
+## Purpose
+
+This section validates that the semantic blueprint inherits the analytical grain established by Tutor 1 without modification.
+
+---
+
+## Tutor 1 Validated Grain
+
+One invoice represents one billing event.
+
+This analytical grain was established during Tutor 1 Phase 2 and is treated as authoritative by the semantic layer.
+
+---
+
+## Tutor 2 Assumed Grain
+
+Every semantic object within this blueprint assumes:
+
+One Invoice
+
+↓
+
+One Billing Event
+
+No semantic object redefines or expands this grain.
+
+---
+
+## Validation
+
+| Validation Question | Result |
+|---------------------|--------|
+| Does the Client entity change the analytical grain? | No |
+| Does the Engagement Type entity change the analytical grain? | No |
+| Does the Invoice entity change the analytical grain? | No |
+| Are measures aggregated at the inherited grain? | Yes |
+| Are attributes descriptive of the inherited grain? | Yes |
+| Does the semantic blueprint redefine business ownership? | No |
+
+---
+
+## Conclusion
+
+The semantic blueprint inherits the analytical grain validated by Tutor 1 without modification.
+
+Business terminology has changed for clarity.
+
+Analytical meaning has not changed.
 ---
 
 # Semantic Validation
+# Semantic Validation
 
+The semantic blueprint has been validated against the analytical artifacts inherited from Tutor 1.
+
+| Validation Requirement | Status |
+|------------------------|--------|
+| Business entities documented | ✅ |
+| Business vocabulary defined | ✅ |
+| Business definitions completed | ✅ |
+| Measures classified | ✅ |
+| Attributes classified | ✅ |
+| Dimensions documented | ✅ |
+| Business terminology independent of SQL | ✅ |
+| Analytical ownership preserved | ✅ |
+| Business grain inherited | ✅ |
+| Traceability to Tutor 1 maintained | ✅ |
+
+---
+
+## Evidence Traceability
+
+Every semantic object within this blueprint can be traced to one or more validated Tutor 1 artifacts, including:
+
+- Analytical Model
+- Entity Inventory
+- Relationship Map
+- Grain Validation Report
+- Fact / Dimension Classification
+- Star Schema
+- Model Validation Report
+
+No semantic object has been introduced without supporting analytical evidence.
 ---
 
 # Known Limitations
+# Known Limitations
 
+The semantic layer inherits the following documented limitations from Tutor 1.
+
+These limitations are acknowledged but are outside the scope of Tutor 2 Phase 1.
+
+- Duplicate exported invoice records
+- Client name standardization deferred
+- Date normalization deferred
+- Currency conversion deferred
+- Missing payment dates
+- Missing client names
+
+These limitations do not invalidate the semantic blueprint because they do not alter the business semantics established in this document.
 ---
 
 # Semantic Contract
+# Semantic Contract
 
+This document establishes the authoritative business interpretation of the Fanisi Digital analytical model.
+
+All downstream analytics layers inherit this semantic contract.
+
+The following invariants must not be redefined without revisiting Tutor 1.
+
+- Business entities
+- Business grain
+- Analytical ownership
+- Measure ownership
+- Dimension ownership
+
+Future layers may extend business logic but must preserve the semantic definitions established within this blueprint.
+
+Any proposed change to analytical meaning requires revision of the upstream analytical model before the semantic blueprint may be updated.
 ---
 
 # Handoff
+# Handoff
 
+Tutor 2 Phase 1 is complete upon approval of this semantic blueprint.
+
+The following artifacts become the formal input contract for Tutor 2 Phase 2 — Relationship Intelligence.
+
+- Business Entity Inventory
+- Business Vocabulary
+- Business Definitions
+- Measure Inventory
+- Attribute Inventory
+- Dimension Blueprint
+- Grain Inheritance Validation
+- Semantic Validation Report
+- Semantic Blueprint v1.0
+
+Tutor 2 Phase 2 may implement semantic relationships but must preserve the semantic definitions established in this document.
 ---
 
 # Status
+# Status
 
+Tutor 2 Phase 1
+
+Status: COMPLETE
+
+Primary Deliverable:
+
+Semantic Blueprint v1.0
+
+Next Phase:
+
+Tutor 2 Phase 2 — Relationship Intelligence
