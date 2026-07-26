@@ -78,11 +78,51 @@ If a semantic interpretation cannot be supported by Tutor 1 evidence, it must no
 ---
 
 # Business Context
+# Business Context
 
+Fanisi Digital delivers professional services to clients through commercial engagements.
+
+As work is completed, invoices are issued to request payment for those services. Each invoice represents a business billing event that records the value of work delivered to a client.
+
+Tutor 1 models these billing events analytically.
+
+Tutor 2 translates that analytical model into business language so that stakeholders can understand the business without requiring knowledge of SQL, database structures, or implementation details.
+
+This semantic blueprint therefore represents the business interpretation of the validated analytical model.
 ---
 
 # Business Process
+# Business Process
 
+The analytical model represents the Client Billing business process.
+
+The business process follows the sequence below.
+
+Client
+
+↓
+
+Engagement Agreed
+
+↓
+
+Service Delivered
+
+↓
+
+Invoice Issued
+
+↓
+
+Payment Received
+
+↓
+
+Revenue Recorded
+
+Each invoice represents a business billing event within this process.
+
+The semantic blueprint uses this process to provide business meaning for all entities, measures, and dimensions while preserving the analytical model validated by Tutor 1.
 ---
 
 # Business Grain
