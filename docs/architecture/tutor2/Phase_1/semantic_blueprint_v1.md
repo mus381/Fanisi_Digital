@@ -487,8 +487,27 @@ The following invariants must not be redefined without revisiting Tutor 1.
 Future layers may extend business logic but must preserve the semantic definitions established within this blueprint.
 
 Any proposed change to analytical meaning requires revision of the upstream analytical model before the semantic blueprint may be updated.
+
+# Semantic Contract
+
+This document establishes the authoritative business interpretation of the Fanisi Digital analytical model.
+
+All downstream analytics layers inherit this semantic contract.
+
+The following invariants must not be redefined without revisiting Tutor 1.
+
+- Business entities
+- Business grain
+- Analytical ownership
+- Measure ownership
+- Dimension ownership
+
+Future layers may extend business logic but must preserve the semantic definitions established within this blueprint.
+
+Any proposed change to analytical meaning requires revision of the upstream analytical model before the semantic blueprint may be updated.
 ---
 
+# Handoff
 # Handoff
 # Handoff
 
