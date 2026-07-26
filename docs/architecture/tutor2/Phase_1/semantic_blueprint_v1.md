@@ -130,7 +130,97 @@ The semantic blueprint uses this process to provide business meaning for all ent
 ---
 
 # Business Entity Inventory
+# Business Entity Inventory
 
+The semantic layer exposes business entities rather than analytical tables.
+
+Each business entity represents a real-world concept supported by the validated analytical model.
+
+---
+
+## Entity: Client
+
+### Business Definition
+
+A client is an individual or organization that purchases services from Fanisi Digital.
+
+### Analytical Owner
+
+dim_client
+
+### Business Role
+
+The client is the customer participating in the billing process.
+
+### Inherited Grain
+
+One client may participate in many billing events.
+
+### Business Questions
+
+- Which clients generate the most revenue?
+- Which clients receive the most invoices?
+- Which clients purchase different engagement types?
+
+---
+
+## Entity: Engagement Type
+
+### Business Definition
+
+An engagement type describes the commercial service delivered to a client.
+
+Examples include:
+
+- Retainer
+- Fixed-Price Project
+
+### Analytical Owner
+
+dim_project_type
+
+### Business Role
+
+The engagement type classifies the service associated with each billing event.
+
+### Inherited Grain
+
+One engagement type may appear across many billing events.
+
+### Business Questions
+
+- Which engagement types generate the highest revenue?
+- Which engagement type is most common?
+
+---
+
+## Entity: Invoice
+
+### Business Definition
+
+An invoice represents a billing event requesting payment for services delivered to a client.
+
+### Analytical Owner
+
+fact_engagement_billing
+
+### Business Identifier
+
+invoice_id
+
+### Business Role
+
+The invoice records the business event captured by the analytical model.
+
+### Inherited Grain
+
+One invoice represents one billing event.
+
+### Business Questions
+
+- How many invoices have been issued?
+- What revenue has been billed?
+- What is the payment status of each invoice?
 ---
 
 # Business Vocabulary
