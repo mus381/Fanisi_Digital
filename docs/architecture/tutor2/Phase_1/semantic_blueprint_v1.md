@@ -224,7 +224,26 @@ One invoice represents one billing event.
 ---
 
 # Business Vocabulary
+# Business Vocabulary
 
+The Business Vocabulary establishes the canonical language used throughout the Fanisi Digital analytics ecosystem.
+
+Business terminology is independent of implementation technology and remains stable across analytical, financial, and presentation layers.
+
+| Business Term | Business Definition | Analytical Reference |
+|--------------|---------------------|----------------------|
+| Client | An individual or organization purchasing services from Fanisi Digital. | dim_client |
+| Engagement Type | The category of commercial service delivered to a client. | dim_project_type |
+| Invoice | A billing document requesting payment for services delivered. | fact_engagement_billing |
+| Billing Event | The business event represented by a single invoice. | fact_engagement_billing |
+| Revenue | Monetary value billed through an invoice. | amount |
+| Payment | Settlement of an issued invoice. | payment_date_key / payment_status |
+| Invoice Date | The date an invoice is issued. | invoice_date_key |
+| Payment Date | The date payment is received for an invoice. | payment_date_key |
+| Currency | The monetary denomination used on the invoice. | currency |
+| Payment Status | The operational state of an invoice's settlement. | payment_status |
+| Description | Narrative explaining the work performed. | description |
+| Notes | Operational comments associated with an invoice. | notes |
 ---
 
 # Business Definitions
@@ -232,11 +251,35 @@ One invoice represents one billing event.
 ---
 
 # Measure Inventory
+# Measure Inventory
 
+Measures represent quantitative business values that may be aggregated to answer business questions.
+
+| Business Measure | Business Definition | Aggregation | Analytical Owner | Business Grain |
+|------------------|---------------------|-------------|------------------|----------------|
+| Amount | Monetary value billed on an invoice. | SUM | fact_engagement_billing | One invoice = one billing event |
+
+Current validated measures inherited from Tutor 1:
+
+- Amount
 ---
 
 # Attribute Inventory
+# Attribute Inventory
 
+Attributes provide business context for measures but are not themselves aggregated.
+
+| Business Field | Classification | Business Purpose | Analytical Owner |
+|----------------|----------------|------------------|------------------|
+| invoice_id | Business Identifier (Degenerate Dimension) | Identifies a billing event. | fact_engagement_billing |
+| client_name | Attribute | Identifies the customer associated with the billing event. | dim_client |
+| engagement_type | Attribute | Classifies the commercial service delivered. | dim_project_type |
+| invoice_date_key | Attribute | Records the invoice issue date. | fact_engagement_billing |
+| payment_date_key | Attribute | Records the payment receipt date. | fact_engagement_billing |
+| currency | Attribute | Records the invoice currency. | fact_engagement_billing |
+| payment_status | Attribute | Records the operational settlement status. | fact_engagement_billing |
+| description | Attribute | Describes the work performed. | fact_engagement_billing |
+| notes | Attribute | Stores operational comments associated with the billing event. | fact_engagement_billing |
 ---
 
 # Dimension Blueprint
